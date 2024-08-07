@@ -4,8 +4,9 @@ This is a Python script for a secret bidding system. Users can input their name 
 ## How to Run
 
 1. **Clone the Repository:**
-   ```bash
-  https://github.com/saif-islam123/-silent_auction_program
+   ```bash 
+   https://github.com/saif-islam123/-silent_auction_program
+
 2. cd secret-bidding-system
 3. python secret_bidding.py
 
